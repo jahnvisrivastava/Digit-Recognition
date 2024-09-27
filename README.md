@@ -27,4 +27,4 @@ Flatten Layer → Fully Connected Layer (128 neurons) → Output Layer (10 neuro
 
 # How to Run
 
-Clone the repository: 
+Clone the repository: https://github.com/jahnvisrivastava/Digit-Recognition.git
